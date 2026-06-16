@@ -1,0 +1,32 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.log
+*.unitypackage
+
+# Visual Studio
+.vscode/
+.vs/
+*.sln
+*.csproj
+*.user
+obj/
+bin/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+*.idea/
+*.iml
+*.iws
+
+# OS
+Thumbs.db
